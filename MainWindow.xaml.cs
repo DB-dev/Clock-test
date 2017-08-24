@@ -28,7 +28,7 @@ namespace clock
          * 
          * DB-dev
          * 
-         * /
+         */
 
 
         public static DateTime hora_s;
